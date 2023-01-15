@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "artificial-blogging"
+  site-url: "https://gabrieli.github.io/artificial-blogging"
+  description: "Deep learning deep learning"
+  repo-branch: main
+  repo-url: "https://github.com/gabrieli/artificial-blogging"
